@@ -1,0 +1,9 @@
+.mainBody {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.entirePage {
+    background-color: rgb(233, 231, 231);
+}
